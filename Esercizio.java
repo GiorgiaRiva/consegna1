@@ -1,6 +1,6 @@
-//1
+//1 if
 import java.util.Scanner; 
-public class Main {
+public class Esercizio {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Inserisci un numero: ");
